@@ -19,3 +19,5 @@ Para rodar o container na sua máquina, basta executar:
 docker run --rm bjsavino/golangrock:multistage 
 ```
 
+Você pode acessar o container no Dockerhub através desse <a href="https://hub.docker.com/repository/docker/bjsavino/golangrock">link</a>
+
